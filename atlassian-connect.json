@@ -31,8 +31,8 @@
                     "value": "Shape Up Pitch"
                 },
                 "icon": {
-                    "width": 48,
-                    "height": 48,
+                    "width": 144,
+                    "height": 144,
                     "url": "blueprint-icon.png"
                 }
             }
