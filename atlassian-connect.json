@@ -1,12 +1,12 @@
 {
-    "key": "shape-up-pitch-template",
+    "key": "shape-up-pitch-template-1",
     "name": "Shape Up Pitch Template",
     "description": "Provides template for writing up shaped work as a pitch. This is for teams who want to practise the Shape Up approach.",
     "vendor": {
         "name": "CuriousLab",
         "url": "https://www.curiouslab.io/"
     },
-    "baseUrl": "https://shapeuppitch.gani.com.au/",
+    "baseUrl": "https://shapeuppitch.curiouslab.io/",
     "authentication": {
         "type": "jwt"
     },
@@ -28,7 +28,7 @@
                 "createResult": "edit",
                 "key": "shape-up-pitch",
                 "name": {
-                    "value": "Shape Up pitch"
+                    "value": "Shape Up Pitch"
                 },
                 "icon": {
                     "width": 48,
