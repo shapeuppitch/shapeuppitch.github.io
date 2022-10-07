@@ -1,0 +1,23 @@
+<h1><ac:emoticon ac:name="blue-star" ac:emoji-shortname=":thinking:" /> Problem</h1>
+<ac:placeholder>Explain why it's a good idea to build this piece. Ideally, provide a single specific story that shows why the status quo doesn't work, giving you a baseline to test fitness against.</ac:placeholder>
+<h1><ac:emoticon ac:name="blue-star" ac:emoji-shortname=":yum:" ac:emoji-fallback="😋" /> Appetite</h1>
+<ac:placeholder>How many weeks do you want to spend on this? A small bet = 2 to 3 weeks. A normal bet = 6 weeks.</ac:placeholder>
+<h1><ac:emoticon ac:name="blue-star" ac:emoji-shortname=":tools:" ac:emoji-fallback="🛠️" /> Solution</h1>
+<ac:structured-macro ac:name="info" ac:schema-version="1">
+  <ac:rich-text-body>
+    <p>Before completing this section you ought to have done research and exploration, and looked critically for gaps and hard decisions that may trip up the team.</p>
+  </ac:rich-text-body>
+</ac:structured-macro>
+<ol>
+  <li><ac:placeholder>Spell out the high-level solution. Don't leave blind spots in your solution, but don't overspecify it either. You need to give the team some latitude to problem solve.</ac:placeholder></li>
+  <li><ac:placeholder>Attach annotated fat marker sketches for the main UI elements</ac:placeholder></li>
+  <li><ac:placeholder>Address rabbit holes (risks that threaten our ability to ship)</ac:placeholder></li>
+  <li><ac:placeholder>List out no gos (things that you're not doing)</ac:placeholder></li>
+</ol>
+<h1><ac:emoticon ac:name="blue-star" ac:emoji-shortname=":calendar_spiral:" ac:emoji-fallback="🗓️" /> Betting</h1>
+<ac:placeholder>Does this piece make it to the upcoming cycle?</ac:placeholder>
+<ac:structured-macro ac:name="info" ac:schema-version="1">
+  <ac:rich-text-body>
+    <p>Use the <a href="https://marketplace.atlassian.com/apps/1228986/shape-up-board-for-jira">Shape Up Board for Jira</a> app to support your delivery process.</p>
+  </ac:rich-text-body>
+</ac:structured-macro>

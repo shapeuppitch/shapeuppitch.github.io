@@ -1,0 +1,41 @@
+{
+    "key": "shape-up-pitch-template",
+    "name": "Shape Up Pitch Template",
+    "description": "Provides template for writing up shaped work as a pitch. This is for teams who want to practise the Shape Up approach.",
+    "vendor": {
+        "name": "CuriousLab",
+        "url": "https://www.curiouslab.io/"
+    },
+    "baseUrl": "https://shapeuppitch.gani.com.au/",
+    "authentication": {
+        "type": "jwt"
+    },
+    "lifecycle": {
+        "installed": "/installed"
+    },
+    "scopes": [
+        "READ"
+    ],
+    "apiMigrations": {
+        "signed-install": true
+    },
+    "modules": {
+        "blueprints": [
+            {
+                "template": {
+                    "url": "/blueprint.xml"
+                },
+                "createResult": "edit",
+                "key": "shape-up-pitch",
+                "name": {
+                    "value": "Shape Up pitch"
+                },
+                "icon": {
+                    "width": 48,
+                    "height": 48,
+                    "url": "blueprint-icon.png"
+                }
+            }
+        ]
+    }
+}
